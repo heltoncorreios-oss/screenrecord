@@ -1,0 +1,6 @@
+{
+  "name": "ScreenRecorder Pro",
+  "description": "Gravador de tela interativo profissional com Facecam flutuante, sinalização em tempo real, anotações de vídeo e estúdio de edição.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
